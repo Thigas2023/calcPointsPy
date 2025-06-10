@@ -65,7 +65,4 @@ while countNum < p:
 # Exibe os resultados finais
 print(f'O ponto de menor distância em relação à origem é {pdmin} com uma distância de {dmin:.2f}.')
 print(f'O ponto de maior distância em relação à origem é {pdmax} com uma distância de {dmax:.2f}.')
-print(f'Existem {qcount[0]} ponto(s) no 1° quadrante;
-        Existem {qcount[1]} ponto(s) no 2° quadrante;
-        Existem {qcount[2]} ponto(s) no 3° quadrante;
-        Existem {qcount[3]} ponto(s) no 4° quadrante;
+print(f'Existem {qcount[0]} ponto(s) no 1° quadrante; \nExistem {qcount[1]} ponto(s) no 2° quadrante; \nExistem {qcount[2]} ponto(s) no 3° quadrante; \nExistem {qcount[3]} ponto(s) no 4° quadrante;')
